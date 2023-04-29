@@ -1,0 +1,13 @@
+python functions
+del- delets items from lists e.g. del shoppinglist[2]
+len- length of the array e.g. len(shoppinglist)
+max- largest array in the code e.g. max(shoppinglist)
+min- smallest array in the code e.g. min(shoppinglist)
+append- add another value to the code e.g. shoppinglist.append("Broccli")
+dictionary-{} e.g. student={"erick":14,"bob":12,"Tina":26}
+list-[]
+keys()- it gives the objects present in the list
+values()- it gives the values assigned to the objects in the dictionary
+abs()- absolute value,changes any number into positive number
+bool()- returns false for only zero otherwise return true for everything else
+setattr()-add specific attribute  
